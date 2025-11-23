@@ -22,7 +22,7 @@ wheels/
 
 Data files
 data/raw/
-*.csv
+# *.csv  # Закомментировано для данных проекта
 *.xlsx
 *.pkl
 *.joblib
