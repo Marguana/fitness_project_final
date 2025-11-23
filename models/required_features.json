@@ -1,0 +1,50 @@
+{
+  "numeric_features": [
+    "Age",
+    "Weight (kg)",
+    "Height (m)",
+    "BMI",
+    "Fat_Percentage",
+    "Water_Intake (liters)",
+    "Workout_Frequency (days/week)",
+    "Carbs",
+    "Proteins",
+    "Fats",
+    "Calories",
+    "pct_carbs",
+    "protein_per_kg",
+    "lean_mass_kg",
+    "cal_balance",
+    "Calories_Burned",
+    "Burns Calories (per 30 min)"
+  ],
+  "categorical_features": [
+    "Gender",
+    "Experience_Level",
+    "Workout_Type",
+    "diet_type"
+  ],
+  "available_features": [
+    "Age",
+    "Weight (kg)",
+    "Height (m)",
+    "BMI",
+    "Fat_Percentage",
+    "Water_Intake (liters)",
+    "Workout_Frequency (days/week)",
+    "Carbs",
+    "Proteins",
+    "Fats",
+    "Calories",
+    "pct_carbs",
+    "protein_per_kg",
+    "lean_mass_kg",
+    "cal_balance",
+    "Calories_Burned",
+    "Burns Calories (per 30 min)",
+    "Gender",
+    "Experience_Level",
+    "Workout_Type",
+    "diet_type"
+  ]
+}
